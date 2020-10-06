@@ -71,12 +71,6 @@ public class ConsumerController {
     public String findByIdFallback(Integer id){
         log.error ( "查询用户信息失败。id:{}",id );
         return "对不起服务太拥挤了！";
-
-        //也可以返回pojo对象
-        /*User user = new User ( );
-        user.setAge ( 26 );
-        user.setName ( "李狗蛋" );
-        return user;*/
     }
 
     /**

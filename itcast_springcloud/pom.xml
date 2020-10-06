@@ -60,7 +60,7 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-
+    <!--lo4j、set和get可以用注解替代-->
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>

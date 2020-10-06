@@ -1,4 +1,4 @@
-package com.itheima.controller;
+package cn.itcast.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -12,7 +12,7 @@ public class Controller {
                 "  \"id\": 8,\n" +
                 "  \"userName\": \"itcast\",\n" +
                 "  \"password\": \"123456\",\n" +
-                "  \"name\": \"传智\",\n" +
+                "  \"name\": \"李狗蛋\",\n" +
                 "  \"age\": 21,\n" +
                 "  \"sex\": 2,\n" +
                 "  \"birthday\": \"2000-07-07T16:00:00.000+0000\",\n" +

@@ -9,7 +9,7 @@ spring:
       server:
         #配置Git远程仓库地址
         git:
-          uri: https://gitee.com/listen-to-the-li/my-config.git
+          uri: https://gitee.com/keepli/my-config.git
   #配置RabbitMQ信息
   rabbitmq:
     host: 121.196.161.193
